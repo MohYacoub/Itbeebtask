@@ -8,10 +8,10 @@
 </p>
 
 
-## Project Description
+## Project Screenshot
 
+![screencapture-127-0-0-1-8000-login-2021-03-07-18_18_07](https://user-images.githubusercontent.com/71829355/110246870-06ae0800-7f72-11eb-89a8-1293fece5468.png)
 
-## Project Setup(Web Portal)
 
 ### Cloning the GitHub Repository.
 
